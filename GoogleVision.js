@@ -1,5 +1,7 @@
 const API_KEY = '<Enter the API key here >'; 
 const API_URL = `https://vision.googleapis.com/v1/images:annotate?key=${API_KEY}`;
+
+// Also try DOCUMENT_TEXT_DETECTION instead of TEXT_DETECTION as per https://cloud.google.com/vision/docs/ocr
 function generateBody(image) {
   const body = {
     requests: [
