@@ -1,8 +1,8 @@
 # ocr
 
-[Android](https://github.com/generic-matrix/ocr-ml-kit/blob/main/output/output.gif?raw=true) 
+![Android](https://github.com/generic-matrix/ocr-ml-kit/blob/main/output/output.gif?raw=true) 
 
-[iOS](https://github.com/generic-matrix/ocr-ml-kit/blob/main/output/output2.gif?raw=true)
+![iOS](https://github.com/generic-matrix/ocr-ml-kit/blob/main/output/output2.gif?raw=true)
 
 # How to build the Android App
 
